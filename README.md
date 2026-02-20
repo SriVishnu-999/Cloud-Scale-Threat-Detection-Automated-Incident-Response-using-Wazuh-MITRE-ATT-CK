@@ -206,20 +206,6 @@ Identified risk → Simulated attack → Detected via custom rule → Automatica
 
 ---
 
-## 📁 Repository Structure
-
-```
-Wazuh-SOC-Lab/
-│
-├── screenshots/
-├── rules/
-├── active-response/
-├── attack-simulation/
-└── README.md
-```
-
----
-
 ## 🚀 Future Improvements
 
 - Add Sysmon-based detections
